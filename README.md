@@ -1,4 +1,4 @@
-# Mantaflow-Helper
+# Favourites Panel
 **--How to Install--**
 * Click Clone or Download
 * Download as Zip
